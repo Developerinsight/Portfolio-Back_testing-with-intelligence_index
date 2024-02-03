@@ -1,5 +1,4 @@
-![image](https://github.com/Developerinsight/intelligence-index/assets/123748877/bdfb7603-272c-491d-81de-2fa6d2894e38)# 지능지수(사용자 함수) 및 경제지표 통한 S&P 500 ETF 상품 매매
-
+# 지능지수 및 경제지표 활용한 누적수익률 VS S&P 500 ETF 누적수익률
 
 ## 선정이유
 
